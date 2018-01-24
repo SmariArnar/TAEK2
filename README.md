@@ -28,17 +28,43 @@ verjast því þegar unnið er með tölvubúnað?
 ### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 1. Lýsing á vandamalinu.
 2. tilgáta um lausn 
-3. próf tilgátu
+3. prófa tilgátu
+4.Lýsingu á aðgerðum til að leysa vandamálið
+5.skoða hvort allt kefið fúnkeri vel og nota fyrirbyggjandi viðhald
+6.Skrá lausnir,
 
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 
+####í lokaðri spurningu geturu bara svarað já og nei, en allskonar í opinni spurningu.
+
 ### Nefnið dæmi um báðar gerðir af spurningum.
+
+#### Lokuð spurning er t.d Ertu í tækniskólanum?
+#### opinn spurning t.d Hvað er uppáhaldsskólinn þinn?
 
 ### 8. Hvað eru jaðartæki?
 
+####Tæki eins og mús, lyklaborð sem að eru ekki inn í kassanum.
+
 ### 9. Nefndu þrjú dæmi um inntakstæki.
+
+#### mús, lyklaborð, skjár
 
 ### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 Skilaðu svo link á github síðuna þína inn á Innu.
+
+#### örgjörvi: AMD Ryzen 1900X Threadripper verð: 69.900kr
+
+####harðidiskur: 1 TB Crucial MX 300 verð: 42.900
+
+####móðurborð: Gigabyte Aorus Z370 Gaming 7 verð: 39.900kr
+
+####skjákort: Intel i7 8700K 3.7 ~ 4.7 GHz Verð: 55.950kr
+
+####aflgjafi: Cooler Master G750M 750W 19.900kr 
+
+####kassi: Cooler Master Silencio 550 13.993
+
+#### Afgangur : 7.250
